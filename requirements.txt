@@ -1,0 +1,6 @@
+dash_loading_spinners==1.0.0
+dash_bootstrap_components==1.0.3
+pandas==1.2.0
+vk_api==11.9.6
+dash==2.1.0
+plotly==5.6.0
